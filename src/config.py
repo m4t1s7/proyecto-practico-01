@@ -7,3 +7,11 @@ equivalencias={
     "hectarea":2.47,
     "acre":0.404
 }
+comparadas={
+    "kilogramo":"libras",
+    "libra":"kilogramos",
+    "kilometro":"millas",
+    "milla":"kilometros",
+    "hectarea":"acres",
+    "acre":"hectareas"
+}
