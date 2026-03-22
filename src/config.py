@@ -5,4 +5,3 @@ kilometro=1.6
 milla=0.6
 hectarea=2.47
 acre=0.404
-equivalencias={"kilogramo": libra, "libra": kilogramo, "kilometro": milla, "milla": kilometro, "hectarea": acre, "acre": hectarea}
