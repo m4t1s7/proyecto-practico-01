@@ -1,4 +1,4 @@
-from src.config import kilogramo, libra, kilometro, milla, acre, hectarea, equivalencias
+from src.config import kilogramo, libra, kilometro, milla, acre, hectarea
 from src.utils import convertir
 
 unidad_a_cambiar=input("Qué unidad quieres convertir?(escribela en minuscula)(elige entre kilogramo, libra, kilometro, milla, acre y hectarea): ")
