@@ -1,7 +1,7 @@
-from src.config import kilogramo, libra, kilometro, milla, acre, hectarea
+from src.config import equivalencias
 from src.utils import convertir
 
-unidad_a_cambiar=input("Qué unidad quieres convertir?(escribela en minuscula)(elige entre kilogramo, libra, kilometro, milla, acre y hectarea): ")
-valor_unidad_a_cambiar=int(input("ahora introduce el valor de esa unidad: "))
+unidad_a_convertir=input("Qué unidad quieres convertir?(escribela en minuscula)(elige entre kilogramo, libra, kilometro, milla, acre y hectarea): ") #Solicitamos la unidad de medida que buscaremos convertir
+valor_unidad_a_convertir=float(input("ahora introduce el valor de esa unidad: "))#Acá sabemos la cantidad de unidades
 
-print(convertir(valor_unidad_a_cambiar, unidad_a_cambiar, kilogramo, libra, kilometro, milla, acre, hectarea))
+print(f"listo, tu conversión resulta en que {valor_unidad_a_convertir} {unidad_a_convertir} equivalen a", convertir(unidad_a_convertir, valor_unidad_a_convertir, equivalencias))
