@@ -1,11 +1,6 @@
-def convertir(unidad_a_convertir, valor_unidad_a_convertir, equivalencias: dict) -> float:
-    for equivalencia in equivalencias.keys():
-        if unidad_a_convertir==equivalencia:
-            conversión=valor_unidad_a_convertir*equivalencias[equivalencia]
-    return conversión
-
-def comparar(unidad_a_convertir, valor_unidad_a_convertir,comparadas: dict) -> str:
-    for comparación in comparadas.keys():
-        if unidad_a_convertir==comparación:
-            comparada=comparadas[comparación]
-    return comparada
+#Ésta función hará el proceso de convertir unidades
+def convertir(unidad: str, valor: float, equivalencias: dict) -> float:
+    return valor*equivalencias[unidad]
+#Ésta función referenciará la medida a la cual convertimos
+def comparar(unidad_a_convertir: str,comparadas: dict) -> str:
+    return comparadas[unidad_a_convertir]

@@ -7,6 +7,7 @@ equivalencias={
     "hectarea":2.47,
     "acre":0.404
 }
+#Éste diccionario expone con que unidad se relaciona cada una de las mismas
 comparadas={
     "kilogramo":"libras",
     "libra":"kilogramos",
