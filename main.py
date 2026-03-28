@@ -1,7 +1,8 @@
-from src.config import equivalencias, comparadas
-from src.utils import convertir, comparar, limpiar
+from src.config import API_KEY
+from src.clima import get_clima
 
-unidad_a_convertir=limpiar(input("Qué unidad quieres convertir?(escribela en minuscula)(elige entre kilogramo, libra, kilometro, milla, acre y hectarea): ")) #Solicitamos la unidad de medida que buscaremos convertir
-valor_unidad_a_convertir=float(input("ahora introduce el valor de esa unidad: "))#Acá sabemos la cantidad de unidades
-
-print(f"listo, tu conversión resulta en que {valor_unidad_a_convertir} {unidad_a_convertir} equivalen a", convertir(unidad_a_convertir, valor_unidad_a_convertir, equivalencias), comparar(unidad_a_convertir,comparadas))
+datos = get_clima("Madrid", API_KEY)
+temp=datos["main"]['temp']
+descripción=datos["weather"][0]["description"]
+ciudad=datos["name"]
+print(f"en {ciudad} hay una temperatura de {temp}C° y un éstado general: {descripción} ")
