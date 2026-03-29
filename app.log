@@ -1,0 +1,37 @@
+2026-03-29 13:34:33,579 - main - INFO - en Barcelona hay una temperatura de 13.68C° y un éstado general: cielo claro 
+2026-03-29 13:34:33,603 - main - INFO -                         ciudad  temperatura      descripcion             fecha
+0                    Barcelona        17.96    algo de nubes  2026-03-28 11:16
+1                       Bogota        14.77            nubes  2026-03-28 11:19
+2                     Medellín        22.62  nubes dispersas  2026-03-28 11:19
+3                    Manizales        20.90  nubes dispersas  2026-03-28 11:19
+4   Arrondissement de Clermont         8.80       muy nuboso  2026-03-28 11:19
+5                 Buenos Aires        23.99  nubes dispersas  2026-03-28 11:20
+6                        Morón        23.98       muy nuboso  2026-03-28 11:20
+7                      Seville        23.45      cielo claro  2026-03-28 11:24
+8                         Chía        17.33            nubes  2026-03-28 11:28
+9                       Cajicá        19.13            nubes  2026-03-28 11:34
+10                       Paris         9.89       muy nuboso  2026-03-28 11:35
+11                        Chía        15.63            nubes  2026-03-28 11:36
+12              Rio de Janeiro        30.50    algo de nubes  2026-03-28 11:37
+13                        Chía        15.63            nubes  2026-03-28 11:39
+14                        Chía        15.63            nubes  2026-03-28 11:43
+15                        Chía        15.63            nubes  2026-03-28 11:46
+16                      Cajicá        19.03            nubes  2026-03-28 11:47
+17                      Madrid        15.11      cielo claro  2026-03-28 11:49
+18                      Bogota        14.64            nubes  2026-03-28 11:50
+19                        Chía        15.13            nubes  2026-03-28 11:54
+20                        Chía        15.13            nubes  2026-03-28 11:55
+21                   Barcelona        13.68      cielo claro  2026-03-29 13:34
+2026-03-29 13:34:33,614 - main - INFO - 
+Temperatura promedio: 17.7°C
+2026-03-29 13:34:33,618 - main - INFO -        ciudad  temperatura    descripcion             fecha
+0   Barcelona        17.96  algo de nubes  2026-03-28 11:16
+21  Barcelona        13.68    cielo claro  2026-03-29 13:34
+2026-03-29 13:43:54,404 - automatizar - INFO - Automatización iniciada
+2026-03-29 13:44:55,039 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:45:56,073 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:46:56,698 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:47:57,311 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:48:57,915 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:49:58,528 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-03-29 13:50:59,132 - automatizar - INFO - Consulta automática exitosa para Chia
