@@ -35,3 +35,39 @@ Temperatura promedio: 17.7°C
 2026-03-29 13:48:57,915 - automatizar - INFO - Consulta automática exitosa para Chia
 2026-03-29 13:49:58,528 - automatizar - INFO - Consulta automática exitosa para Chia
 2026-03-29 13:50:59,132 - automatizar - INFO - Consulta automática exitosa para Chia
+2026-04-07 19:37:35,398 - main - INFO - en Caracas hay una temperatura de 28.72C° y un éstado general: nubes 
+2026-04-07 19:37:35,450 - main - INFO -                         ciudad  temperatura      descripcion             fecha
+0                    Barcelona        17.96    algo de nubes  2026-03-28 11:16
+1                       Bogota        14.77            nubes  2026-03-28 11:19
+2                     Medellín        22.62  nubes dispersas  2026-03-28 11:19
+3                    Manizales        20.90  nubes dispersas  2026-03-28 11:19
+4   Arrondissement de Clermont         8.80       muy nuboso  2026-03-28 11:19
+5                 Buenos Aires        23.99  nubes dispersas  2026-03-28 11:20
+6                        Morón        23.98       muy nuboso  2026-03-28 11:20
+7                      Seville        23.45      cielo claro  2026-03-28 11:24
+8                         Chía        17.33            nubes  2026-03-28 11:28
+9                       Cajicá        19.13            nubes  2026-03-28 11:34
+10                       Paris         9.89       muy nuboso  2026-03-28 11:35
+11                        Chía        15.63            nubes  2026-03-28 11:36
+12              Rio de Janeiro        30.50    algo de nubes  2026-03-28 11:37
+13                        Chía        15.63            nubes  2026-03-28 11:39
+14                        Chía        15.63            nubes  2026-03-28 11:43
+15                        Chía        15.63            nubes  2026-03-28 11:46
+16                      Cajicá        19.03            nubes  2026-03-28 11:47
+17                      Madrid        15.11      cielo claro  2026-03-28 11:49
+18                      Bogota        14.64            nubes  2026-03-28 11:50
+19                        Chía        15.13            nubes  2026-03-28 11:54
+20                        Chía        15.13            nubes  2026-03-28 11:55
+21                   Barcelona        13.68      cielo claro  2026-03-29 13:34
+22                        Chia        15.97    lluvia ligera  2026-03-29 13:44
+23                        Chia        15.97    lluvia ligera  2026-03-29 13:45
+24                        Chia        15.97    lluvia ligera  2026-03-29 13:46
+25                        Chia        15.97    lluvia ligera  2026-03-29 13:47
+26                        Chia        15.97    lluvia ligera  2026-03-29 13:48
+27                        Chia        15.97    lluvia ligera  2026-03-29 13:49
+28                        Chia        15.97    lluvia ligera  2026-03-29 13:50
+29                     Caracas        28.72            nubes  2026-04-07 19:37
+2026-04-07 19:37:35,475 - main - INFO - 
+Temperatura promedio: 17.6°C
+2026-04-07 19:37:35,482 - main - INFO -      ciudad  temperatura descripcion             fecha
+29  Caracas        28.72       nubes  2026-04-07 19:37
